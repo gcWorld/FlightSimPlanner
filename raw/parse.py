@@ -22,6 +22,7 @@ for neighbor in root.iter('Ahp'):
     f.write('    "properties": {\r')  
     f.write('      "title": "'+neighbor.find('codeIcao').text+'",\r')  
     f.write('      "icon": "airport"\r')
+    f.write('      "name": "<strong>'+neighbor.find('txtName').text.encode('utf-8')+'</strong>"\r')
     f.write('    }\r')
     f.write("},\r")
 f.write(' ]\r')

@@ -1,0 +1,199 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    body { margin:0; padding:0; }
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+
+<body>
+        <style>
+                #menu {
+                background: #fff;
+                position: absolute;
+                z-index: 1;
+                top: 10px;
+                right: 10px;
+                border-radius: 3px;
+                width: 120px;
+                border: 1px solid rgba(0,0,0,0.4);
+                font-family: 'Open Sans', sans-serif;
+                }
+                 
+                #menu a {
+                font-size: 13px;
+                color: #404040;
+                display: block;
+                margin: 0;
+                padding: 0;
+                padding: 10px;
+                text-decoration: none;
+                border-bottom: 1px solid rgba(0,0,0,0.25);
+                text-align: center;
+                }
+                 
+                #menu a:last-child {
+                border: none;
+                }
+                 
+                #menu a:hover {
+                background-color: #f8f8f8;
+                color: #404040;
+                }
+                 
+                #menu a.active {
+                background-color: #3887be;
+                color: #ffffff;
+                }
+                 
+                #menu a.active:hover {
+                background: #3074a4;
+                }
+
+                #menu2 {
+                position: absolute;
+                background: #fff;
+                padding: 10px;
+                font-family: 'Open Sans', sans-serif;
+                }
+
+                </style>
+                 
+                <nav id="menu"></nav>
+    <div id='map'></div>
+
+    <div id='menu2'>
+        <input id='mapbox/streets-v11' type='radio' name='rtoggle' value='streets' checked='checked'>
+        <label for='streets'>streets</label>
+        <input id='mapbox/light-v10' type='radio' name='rtoggle' value='light'>
+        <label for='light'>light</label>
+        <input id='mapbox/dark-v10' type='radio' name='rtoggle' value='dark'>
+        <label for='dark'>dark</label>
+        <input id='mapbox/outdoors-v11' type='radio' name='rtoggle' value='outdoors'>
+        <label for='outdoors'>outdoors</label>
+        <input id='mapbox/satellite-v9' type='radio' name='rtoggle' value='satellite'>
+        <label for='satellite'>satellite</label>
+        <input id='seeadler/cjyiulv3t0xd81clakksmoj1g' type='radio' name='rtoggle' value='ofm'>
+        <label for='ofm'>OFM</label>
+    </div>
+
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1Ijoic2VlYWRsZXIiLCJhIjoiY2lyam95azhmMDAxNGhwbmg1d3I5d2hpaiJ9.tF5nck_QywpWKxJ-7Rq3PQ';
+    var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/seeadler/cjyiulv3t0xd81clakksmoj1g'
+    });
+
+    map.on('load', function () {
+        addDataLayer();
+        
+    });
+
+    function addDataLayer() {
+        map.addSource('airports', { type: 'geojson', data: 'https://gist.githubusercontent.com/gcWorld/e09bf3132c121741346627dac9e63c6f/raw/b90d735bdff9e9a6252b158608a70e72c50d6c7e/map.geojson' });
+
+        map.addLayer({
+            "id": "Airports",
+            "type": "symbol",
+            "source": "airports",
+            "layout": {
+            "icon-image": "{icon}-15",
+            "text-field": "{title}",
+            "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+            "text-offset": [0, 0.6],
+            "text-anchor": "top",
+            'visibility': 'visible'
+            }
+        });
+}
+
+    map.on('style.load', function () {
+        // Triggered when `setStyle` is called.
+        addDataLayer();
+    });
+
+    var toggleableLayerIds = [ 'Airports', 'NavAids' ];
+ 
+for (var i = 0; i < toggleableLayerIds.length; i++) {
+var id = toggleableLayerIds[i];
+ 
+var link = document.createElement('a');
+link.href = '#';
+link.className = 'active';
+link.textContent = id;
+ 
+link.onclick = function (e) {
+var clickedLayer = this.textContent;
+e.preventDefault();
+e.stopPropagation();
+ 
+var visibility = map.getLayoutProperty(clickedLayer, 'visibility');
+ 
+if (visibility === 'visible') {
+map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+this.className = '';
+} else {
+this.className = 'active';
+map.setLayoutProperty(clickedLayer, 'visibility', 'visible');
+}
+};
+ 
+var layers = document.getElementById('menu');
+layers.appendChild(link);
+}
+
+var layerList = document.getElementById('menu2');
+var inputs = layerList.getElementsByTagName('input');
+ 
+function switchLayer(layer) {
+var layerId = layer.target.id;
+map.setStyle('mapbox://styles/' + layerId);
+}
+ 
+for (var i = 0; i < inputs.length; i++) {
+inputs[i].onclick = switchLayer;
+}
+
+// When a click event occurs on a feature in the places layer, open a popup at the
+// location of the feature, with description HTML from its properties.
+map.on('click', 'Airports', function (e) {
+var coordinates = e.features[0].geometry.coordinates.slice();
+var description = e.features[0].properties.title;
+ 
+// Ensure that if the map is zoomed out such that multiple
+// copies of the feature are visible, the popup appears
+// over the copy being pointed to.
+while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+}
+ 
+new mapboxgl.Popup()
+.setLngLat(coordinates)
+.setHTML(description)
+.addTo(map);
+});
+ 
+// Change the cursor to a pointer when the mouse is over the places layer.
+map.on('mouseenter', 'Airports', function () {
+map.getCanvas().style.cursor = 'pointer';
+});
+ 
+// Change it back to a pointer when it leaves.
+map.on('mouseleave', 'Airports', function () {
+map.getCanvas().style.cursor = '';
+});
+
+    </script>
+</body>
+</html>

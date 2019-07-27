@@ -24,7 +24,7 @@ for neighbor in root.iter('Ahp'):
     txt += '      "icon": "airport",\r'
     txt += '      "name": "<strong>'+neighbor.find('txtName').text.encode('utf-8').replace('"','')+'</strong>"\r'
     txt += '    }\r'
-    txt += "},\r"
+    txt += "},"
 
 f.write(txt[:-1])
 f.write("\r")

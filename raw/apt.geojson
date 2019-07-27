@@ -1,1 +1,1013 @@
-{  "type": "FeatureCollection",  "features": [    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.56194444, 47.48500000]    },    "properties": {      "title": "LSZR",      "icon": "airport",      "name": "<strong>ST. GALLEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.54805556, 47.45805556]    },    "properties": {      "title": "LSZH",      "icon": "airport",      "name": "<strong>ZÜRICH KLOTEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.10944444, 46.23833333]    },    "properties": {      "title": "LSGG",      "icon": "airport",      "name": "<strong>GENEVE COINTRIN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.79361111, 47.08416667]    },    "properties": {      "title": "LSGC",      "icon": "airport",      "name": "<strong>LES EPLATURES</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.32694444, 46.21916667]    },    "properties": {      "title": "LSGS",      "icon": "airport",      "name": "<strong>SION</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.88388889, 46.53444444]    },    "properties": {      "title": "LSZS",      "icon": "airport",      "name": "<strong>SAMEDAN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.91027778, 46.00361111]    },    "properties": {      "title": "LSZA",      "icon": "airport",      "name": "<strong>LUGANO</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.49916667, 46.91222222]    },    "properties": {      "title": "LSZB",      "icon": "airport",      "name": "<strong>BERN - BELP</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.39694444, 46.97444444]    },    "properties": {      "title": "LSZC",      "icon": "airport",      "name": "<strong>BUOCHS</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.41638889, 47.18138889]    },    "properties": {      "title": "LSZG",      "icon": "airport",      "name": "<strong>GRENCHEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.68977700, 46.51250100]    },    "properties": {      "title": "LSPM",      "icon": "airport",      "name": "<strong>AMBRI</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.20472200, 47.18999100]    },    "properties": {      "title": "LSZO",      "icon": "airport",      "name": "<strong>LUZERN/BEROMÜNSTER</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.74166700, 47.18499800]    },    "properties": {      "title": "LSPL",      "icon": "airport",      "name": "<strong>LANGENTHAL</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.07805500, 47.22666200]    },    "properties": {      "title": "LSPN",      "icon": "airport",      "name": "<strong>TRIENGEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.87861100, 46.16166700]    },    "properties": {      "title": "LSZL",      "icon": "airport",      "name": "<strong>LOCARNO</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.00000000, 46.30000000]    },    "properties": {      "title": "LSML",      "icon": "airport",      "name": "<strong>LODRINO</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.48194400, 47.01499900]    },    "properties": {      "title": "LSZE",      "icon": "airport",      "name": "<strong>BAD RAGAZ</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.06483100, 47.07887200]    },    "properties": {      "title": "LSMF",      "icon": "airport",      "name": "<strong>MOLLIS</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.86750000, 47.20472300]    },    "properties": {      "title": "LSPV",      "icon": "airport",      "name": "<strong>WANGEN-LACHEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.88194400, 47.28000000]    },    "properties": {      "title": "LSPK",      "icon": "airport",      "name": "<strong>HASENSTRICK</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.26277700, 47.50888800]    },    "properties": {      "title": "LSZV",      "icon": "airport",      "name": "<strong>SITTERDORF</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.00305600, 47.52443700]    },    "properties": {      "title": "LSZT",      "icon": "airport",      "name": "<strong>LOMMIS</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.75750000, 47.37638500]    },    "properties": {      "title": "LSZK",      "icon": "airport",      "name": "<strong>SPECK-FEHRALTORF</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.64823100, 47.39864400]    },    "properties": {      "title": "LSMD",      "icon": "airport",      "name": "<strong>DÜBENDORF</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.52810000, 47.69170000]    },    "properties": {      "title": "LSPF",      "icon": "airport",      "name": "<strong>SCHAFFHAUSEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.95000000, 47.50888800]    },    "properties": {      "title": "LSZI",      "icon": "airport",      "name": "<strong>FRICKTAL-SCHUPFART</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.23361100, 47.44360400]    },    "properties": {      "title": "LSZF",      "icon": "airport",      "name": "<strong>BIRRFELD</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.30250000, 47.26472200]    },    "properties": {      "title": "LSZU",      "icon": "airport",      "name": "<strong>BUTTWIL</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.51555600, 47.23833300]    },    "properties": {      "title": "LSZN",      "icon": "airport",      "name": "<strong>HAUSEN AM ALBIS "R"</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.30511700, 47.09236900]    },    "properties": {      "title": "LSME",      "icon": "airport",      "name": "<strong>EMMEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.28416700, 46.94388900]    },    "properties": {      "title": "LSMA",      "icon": "airport",      "name": "<strong>ALPNACH</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.25317800, 46.90742600]    },    "properties": {      "title": "LSPG",      "icon": "airport",      "name": "<strong>KÄGISWIL "R"</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.11000000, 46.74333300]    },    "properties": {      "title": "LSMM",      "icon": "airport",      "name": "<strong>MEIRINGEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.26333300, 46.48028300]    },    "properties": {      "title": "LSPU",      "icon": "airport",      "name": "<strong>MÜNSTER</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.81694400, 46.30388900]    },    "properties": {      "title": "LSTA",      "icon": "airport",      "name": "<strong>RARON</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.98659744, 46.25790033]    },    "properties": {      "title": "LSGB",      "icon": "airport",      "name": "<strong>BEX</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.25083400, 46.48749900]    },    "properties": {      "title": "LSGK",      "icon": "airport",      "name": "<strong>SAANEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.41257200, 46.49744200]    },    "properties": {      "title": "LSTS",      "icon": "airport",      "name": "<strong>ST. STEPHAN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.38111111, 46.55222222]    },    "properties": {      "title": "LSTZ",      "icon": "airport",      "name": "<strong>ZWEISIMMEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.09500000, 46.59499700]    },    "properties": {      "title": "LSGT",      "icon": "airport",      "name": "<strong>GRUYERES</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.67777800, 46.61361100]    },    "properties": {      "title": "LSGR",      "icon": "airport",      "name": "<strong>REICHENBACH</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.60055500, 46.75638600]    },    "properties": {      "title": "LSZW",      "icon": "airport",      "name": "<strong>THUN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.07611100, 46.75499700]    },    "properties": {      "title": "LSGE",      "icon": "airport",      "name": "<strong>ECUVILLENS</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.61638900, 46.54500000]    },    "properties": {      "title": "LSGL",      "icon": "airport",      "name": "<strong>LAUSANNE</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.25861100, 46.41305600]    },    "properties": {      "title": "LSGP",      "icon": "airport",      "name": "<strong>LA COTE</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.61333300, 46.76333200]    },    "properties": {      "title": "LSGY",      "icon": "airport",      "name": "<strong>YVERDON-LES-BAINS</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.61500000, 46.91666667]    },    "properties": {      "title": "LSTO",      "icon": "airport",      "name": "<strong>MOTIERS</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.86472200, 46.95750000]    },    "properties": {      "title": "LSGN",      "icon": "airport",      "name": "<strong>NEUCHATEL</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.91505800, 46.84320800]    },    "properties": {      "title": "LSMP",      "icon": "airport",      "name": "<strong>PAYERNE</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.29000000, 47.08916500]    },    "properties": {      "title": "LSZP",      "icon": "airport",      "name": "<strong>BIEL-KAPPELEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.09083300, 47.18360100]    },    "properties": {      "title": "LSZJ",      "icon": "airport",      "name": "<strong>COURTELARY</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.05166700, 47.41055300]    },    "properties": {      "title": "LSZY",      "icon": "airport",      "name": "<strong>PORRENTRUY</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.04750000, 47.57416667]    },    "properties": {      "title": "LSPA",      "icon": "airport",      "name": "<strong>AMLIKON</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.02888889, 47.39250000]    },    "properties": {      "title": "LSZQ",      "icon": "airport",      "name": "<strong>BRESSAUCOURT</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.40055556, 46.59027778]    },    "properties": {      "title": "LSTR",      "icon": "airport",      "name": "<strong>MONTRICHER "R"</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.88508400, 47.34156000]    },    "properties": {      "title": "LSPO",      "icon": "airport",      "name": "<strong>OLTEN "R"</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.03951725, 47.17154725]    },    "properties": {      "title": "LSZX",      "icon": "airport",      "name": "<strong>SCHÄNIS "R"</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.49138889, 47.43861111]    },    "properties": {      "title": "LSPD",      "icon": "airport",      "name": "<strong>DITTINGEN "R"</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.77194444, 47.51500000]    },    "properties": {      "title": "LSPH",      "icon": "airport",      "name": "<strong>WINTERTHUR "R"</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.13250000, 46.97944444]    },    "properties": {      "title": "LSTB",      "icon": "airport",      "name": "<strong>BELLECHASSE "R"</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.82416667, 46.47888889]    },    "properties": {      "title": "LSXM",      "icon": "airport",      "name": "<strong>ST. MORITZ</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.55111111, 46.91222222]    },    "properties": {      "title": "LSXU",      "icon": "airport",      "name": "<strong>UNTERVAZ</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.48166667, 47.06805556]    },    "properties": {      "title": "LSXB",      "icon": "airport",      "name": "<strong>BALZERS</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.47305556, 47.40888889]    },    "properties": {      "title": "LSXT",      "icon": "airport",      "name": "<strong>TROGEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.29027778, 47.40583333]    },    "properties": {      "title": "LSXO",      "icon": "airport",      "name": "<strong>GOSSAU</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.71361111, 47.17027778]    },    "properties": {      "title": "LSXS",      "icon": "airport",      "name": "<strong>SCHINDELLEGI</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.09277778, 46.76055556]    },    "properties": {      "title": "LSXA",      "icon": "airport",      "name": "<strong>TAVANASA</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.63916667, 46.83416667]    },    "properties": {      "title": "LSXE",      "icon": "airport",      "name": "<strong>ERSTFELD</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.99277778, 46.29027778]    },    "properties": {      "title": "LSXR",      "icon": "airport",      "name": "<strong>LODRINO</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [9.08944444, 46.23194444]    },    "properties": {      "title": "LSXV",      "icon": "airport",      "name": "<strong>SAN VITTORE</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.24500000, 47.53750000]    },    "properties": {      "title": "LSXW",      "icon": "airport",      "name": "<strong>WÜRENLINGEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.41444444, 47.09055556]    },    "properties": {      "title": "LSXN",      "icon": "airport",      "name": "<strong>HALTIKON</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.20277778, 46.71277778]    },    "properties": {      "title": "LSXC",      "icon": "airport",      "name": "<strong>SCHATTENHALB</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.72500000, 46.31000000]    },    "properties": {      "title": "LSEG",      "icon": "airport",      "name": "<strong>GAMPEL</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.95972222, 46.26861111]    },    "properties": {      "title": "LSEC",      "icon": "airport",      "name": "<strong>COLLOMBEY-MURAZ</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.27083333, 46.42972222]    },    "properties": {      "title": "LSEA",      "icon": "airport",      "name": "<strong>GSTAAD-INN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.87750000, 46.64805556]    },    "properties": {      "title": "LSXG",      "icon": "airport",      "name": "<strong>GSTEIGWILER</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.02611111, 47.31416667]    },    "properties": {      "title": "LSXH",      "icon": "airport",      "name": "<strong>HOLZIKEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.87611111, 46.67000000]    },    "properties": {      "title": "LSXI",      "icon": "airport",      "name": "<strong>INTERLAKEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.91333333, 46.58555556]    },    "properties": {      "title": "LSXL",      "icon": "airport",      "name": "<strong>LAUTERBRUNNEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.02416667, 46.34138889]    },    "properties": {      "title": "LESY",      "icon": "airport",      "name": "<strong>LEYSIN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.91000000, 47.23527778]    },    "properties": {      "title": "LSXP",      "icon": "airport",      "name": "<strong>PFAFFNAU</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.83305556, 46.30194444]    },    "properties": {      "title": "LSER",      "icon": "airport",      "name": "<strong>RARON</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.75305556, 46.02916667]    },    "properties": {      "title": "LSEZ",      "icon": "airport",      "name": "<strong>ZERMATT</strong>"    }}, ]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.56194444, 47.48500000]
+    },
+    "properties": {
+      "title": "LSZR",
+      "icon": "airport",
+      "name": "<strong>ST. GALLEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.54805556, 47.45805556]
+    },
+    "properties": {
+      "title": "LSZH",
+      "icon": "airport",
+      "name": "<strong>ZÜRICH KLOTEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.10944444, 46.23833333]
+    },
+    "properties": {
+      "title": "LSGG",
+      "icon": "airport",
+      "name": "<strong>GENEVE COINTRIN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.79361111, 47.08416667]
+    },
+    "properties": {
+      "title": "LSGC",
+      "icon": "airport",
+      "name": "<strong>LES EPLATURES</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.32694444, 46.21916667]
+    },
+    "properties": {
+      "title": "LSGS",
+      "icon": "airport",
+      "name": "<strong>SION</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.88388889, 46.53444444]
+    },
+    "properties": {
+      "title": "LSZS",
+      "icon": "airport",
+      "name": "<strong>SAMEDAN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.91027778, 46.00361111]
+    },
+    "properties": {
+      "title": "LSZA",
+      "icon": "airport",
+      "name": "<strong>LUGANO</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.49916667, 46.91222222]
+    },
+    "properties": {
+      "title": "LSZB",
+      "icon": "airport",
+      "name": "<strong>BERN - BELP</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.39694444, 46.97444444]
+    },
+    "properties": {
+      "title": "LSZC",
+      "icon": "airport",
+      "name": "<strong>BUOCHS</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.41638889, 47.18138889]
+    },
+    "properties": {
+      "title": "LSZG",
+      "icon": "airport",
+      "name": "<strong>GRENCHEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.68977700, 46.51250100]
+    },
+    "properties": {
+      "title": "LSPM",
+      "icon": "airport",
+      "name": "<strong>AMBRI</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.20472200, 47.18999100]
+    },
+    "properties": {
+      "title": "LSZO",
+      "icon": "airport",
+      "name": "<strong>LUZERN/BEROMÜNSTER</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.74166700, 47.18499800]
+    },
+    "properties": {
+      "title": "LSPL",
+      "icon": "airport",
+      "name": "<strong>LANGENTHAL</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.07805500, 47.22666200]
+    },
+    "properties": {
+      "title": "LSPN",
+      "icon": "airport",
+      "name": "<strong>TRIENGEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.87861100, 46.16166700]
+    },
+    "properties": {
+      "title": "LSZL",
+      "icon": "airport",
+      "name": "<strong>LOCARNO</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.00000000, 46.30000000]
+    },
+    "properties": {
+      "title": "LSML",
+      "icon": "airport",
+      "name": "<strong>LODRINO</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.48194400, 47.01499900]
+    },
+    "properties": {
+      "title": "LSZE",
+      "icon": "airport",
+      "name": "<strong>BAD RAGAZ</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.06483100, 47.07887200]
+    },
+    "properties": {
+      "title": "LSMF",
+      "icon": "airport",
+      "name": "<strong>MOLLIS</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.86750000, 47.20472300]
+    },
+    "properties": {
+      "title": "LSPV",
+      "icon": "airport",
+      "name": "<strong>WANGEN-LACHEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.88194400, 47.28000000]
+    },
+    "properties": {
+      "title": "LSPK",
+      "icon": "airport",
+      "name": "<strong>HASENSTRICK</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.26277700, 47.50888800]
+    },
+    "properties": {
+      "title": "LSZV",
+      "icon": "airport",
+      "name": "<strong>SITTERDORF</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.00305600, 47.52443700]
+    },
+    "properties": {
+      "title": "LSZT",
+      "icon": "airport",
+      "name": "<strong>LOMMIS</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.75750000, 47.37638500]
+    },
+    "properties": {
+      "title": "LSZK",
+      "icon": "airport",
+      "name": "<strong>SPECK-FEHRALTORF</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.64823100, 47.39864400]
+    },
+    "properties": {
+      "title": "LSMD",
+      "icon": "airport",
+      "name": "<strong>DÜBENDORF</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.52810000, 47.69170000]
+    },
+    "properties": {
+      "title": "LSPF",
+      "icon": "airport",
+      "name": "<strong>SCHAFFHAUSEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.95000000, 47.50888800]
+    },
+    "properties": {
+      "title": "LSZI",
+      "icon": "airport",
+      "name": "<strong>FRICKTAL-SCHUPFART</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.23361100, 47.44360400]
+    },
+    "properties": {
+      "title": "LSZF",
+      "icon": "airport",
+      "name": "<strong>BIRRFELD</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.30250000, 47.26472200]
+    },
+    "properties": {
+      "title": "LSZU",
+      "icon": "airport",
+      "name": "<strong>BUTTWIL</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.51555600, 47.23833300]
+    },
+    "properties": {
+      "title": "LSZN",
+      "icon": "airport",
+      "name": "<strong>HAUSEN AM ALBIS "R"</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.30511700, 47.09236900]
+    },
+    "properties": {
+      "title": "LSME",
+      "icon": "airport",
+      "name": "<strong>EMMEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.28416700, 46.94388900]
+    },
+    "properties": {
+      "title": "LSMA",
+      "icon": "airport",
+      "name": "<strong>ALPNACH</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.25317800, 46.90742600]
+    },
+    "properties": {
+      "title": "LSPG",
+      "icon": "airport",
+      "name": "<strong>KÄGISWIL "R"</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.11000000, 46.74333300]
+    },
+    "properties": {
+      "title": "LSMM",
+      "icon": "airport",
+      "name": "<strong>MEIRINGEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.26333300, 46.48028300]
+    },
+    "properties": {
+      "title": "LSPU",
+      "icon": "airport",
+      "name": "<strong>MÜNSTER</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.81694400, 46.30388900]
+    },
+    "properties": {
+      "title": "LSTA",
+      "icon": "airport",
+      "name": "<strong>RARON</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.98659744, 46.25790033]
+    },
+    "properties": {
+      "title": "LSGB",
+      "icon": "airport",
+      "name": "<strong>BEX</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.25083400, 46.48749900]
+    },
+    "properties": {
+      "title": "LSGK",
+      "icon": "airport",
+      "name": "<strong>SAANEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.41257200, 46.49744200]
+    },
+    "properties": {
+      "title": "LSTS",
+      "icon": "airport",
+      "name": "<strong>ST. STEPHAN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.38111111, 46.55222222]
+    },
+    "properties": {
+      "title": "LSTZ",
+      "icon": "airport",
+      "name": "<strong>ZWEISIMMEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.09500000, 46.59499700]
+    },
+    "properties": {
+      "title": "LSGT",
+      "icon": "airport",
+      "name": "<strong>GRUYERES</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.67777800, 46.61361100]
+    },
+    "properties": {
+      "title": "LSGR",
+      "icon": "airport",
+      "name": "<strong>REICHENBACH</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.60055500, 46.75638600]
+    },
+    "properties": {
+      "title": "LSZW",
+      "icon": "airport",
+      "name": "<strong>THUN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.07611100, 46.75499700]
+    },
+    "properties": {
+      "title": "LSGE",
+      "icon": "airport",
+      "name": "<strong>ECUVILLENS</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.61638900, 46.54500000]
+    },
+    "properties": {
+      "title": "LSGL",
+      "icon": "airport",
+      "name": "<strong>LAUSANNE</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.25861100, 46.41305600]
+    },
+    "properties": {
+      "title": "LSGP",
+      "icon": "airport",
+      "name": "<strong>LA COTE</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.61333300, 46.76333200]
+    },
+    "properties": {
+      "title": "LSGY",
+      "icon": "airport",
+      "name": "<strong>YVERDON-LES-BAINS</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.61500000, 46.91666667]
+    },
+    "properties": {
+      "title": "LSTO",
+      "icon": "airport",
+      "name": "<strong>MOTIERS</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.86472200, 46.95750000]
+    },
+    "properties": {
+      "title": "LSGN",
+      "icon": "airport",
+      "name": "<strong>NEUCHATEL</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.91505800, 46.84320800]
+    },
+    "properties": {
+      "title": "LSMP",
+      "icon": "airport",
+      "name": "<strong>PAYERNE</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.29000000, 47.08916500]
+    },
+    "properties": {
+      "title": "LSZP",
+      "icon": "airport",
+      "name": "<strong>BIEL-KAPPELEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.09083300, 47.18360100]
+    },
+    "properties": {
+      "title": "LSZJ",
+      "icon": "airport",
+      "name": "<strong>COURTELARY</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.05166700, 47.41055300]
+    },
+    "properties": {
+      "title": "LSZY",
+      "icon": "airport",
+      "name": "<strong>PORRENTRUY</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.04750000, 47.57416667]
+    },
+    "properties": {
+      "title": "LSPA",
+      "icon": "airport",
+      "name": "<strong>AMLIKON</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.02888889, 47.39250000]
+    },
+    "properties": {
+      "title": "LSZQ",
+      "icon": "airport",
+      "name": "<strong>BRESSAUCOURT</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.40055556, 46.59027778]
+    },
+    "properties": {
+      "title": "LSTR",
+      "icon": "airport",
+      "name": "<strong>MONTRICHER "R"</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.88508400, 47.34156000]
+    },
+    "properties": {
+      "title": "LSPO",
+      "icon": "airport",
+      "name": "<strong>OLTEN "R"</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.03951725, 47.17154725]
+    },
+    "properties": {
+      "title": "LSZX",
+      "icon": "airport",
+      "name": "<strong>SCHÄNIS "R"</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.49138889, 47.43861111]
+    },
+    "properties": {
+      "title": "LSPD",
+      "icon": "airport",
+      "name": "<strong>DITTINGEN "R"</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.77194444, 47.51500000]
+    },
+    "properties": {
+      "title": "LSPH",
+      "icon": "airport",
+      "name": "<strong>WINTERTHUR "R"</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.13250000, 46.97944444]
+    },
+    "properties": {
+      "title": "LSTB",
+      "icon": "airport",
+      "name": "<strong>BELLECHASSE "R"</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.82416667, 46.47888889]
+    },
+    "properties": {
+      "title": "LSXM",
+      "icon": "airport",
+      "name": "<strong>ST. MORITZ</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.55111111, 46.91222222]
+    },
+    "properties": {
+      "title": "LSXU",
+      "icon": "airport",
+      "name": "<strong>UNTERVAZ</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.48166667, 47.06805556]
+    },
+    "properties": {
+      "title": "LSXB",
+      "icon": "airport",
+      "name": "<strong>BALZERS</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.47305556, 47.40888889]
+    },
+    "properties": {
+      "title": "LSXT",
+      "icon": "airport",
+      "name": "<strong>TROGEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.29027778, 47.40583333]
+    },
+    "properties": {
+      "title": "LSXO",
+      "icon": "airport",
+      "name": "<strong>GOSSAU</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.71361111, 47.17027778]
+    },
+    "properties": {
+      "title": "LSXS",
+      "icon": "airport",
+      "name": "<strong>SCHINDELLEGI</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.09277778, 46.76055556]
+    },
+    "properties": {
+      "title": "LSXA",
+      "icon": "airport",
+      "name": "<strong>TAVANASA</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.63916667, 46.83416667]
+    },
+    "properties": {
+      "title": "LSXE",
+      "icon": "airport",
+      "name": "<strong>ERSTFELD</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.99277778, 46.29027778]
+    },
+    "properties": {
+      "title": "LSXR",
+      "icon": "airport",
+      "name": "<strong>LODRINO</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.08944444, 46.23194444]
+    },
+    "properties": {
+      "title": "LSXV",
+      "icon": "airport",
+      "name": "<strong>SAN VITTORE</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.24500000, 47.53750000]
+    },
+    "properties": {
+      "title": "LSXW",
+      "icon": "airport",
+      "name": "<strong>WÜRENLINGEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.41444444, 47.09055556]
+    },
+    "properties": {
+      "title": "LSXN",
+      "icon": "airport",
+      "name": "<strong>HALTIKON</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.20277778, 46.71277778]
+    },
+    "properties": {
+      "title": "LSXC",
+      "icon": "airport",
+      "name": "<strong>SCHATTENHALB</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.72500000, 46.31000000]
+    },
+    "properties": {
+      "title": "LSEG",
+      "icon": "airport",
+      "name": "<strong>GAMPEL</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.95972222, 46.26861111]
+    },
+    "properties": {
+      "title": "LSEC",
+      "icon": "airport",
+      "name": "<strong>COLLOMBEY-MURAZ</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.27083333, 46.42972222]
+    },
+    "properties": {
+      "title": "LSEA",
+      "icon": "airport",
+      "name": "<strong>GSTAAD-INN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.87750000, 46.64805556]
+    },
+    "properties": {
+      "title": "LSXG",
+      "icon": "airport",
+      "name": "<strong>GSTEIGWILER</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.02611111, 47.31416667]
+    },
+    "properties": {
+      "title": "LSXH",
+      "icon": "airport",
+      "name": "<strong>HOLZIKEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.87611111, 46.67000000]
+    },
+    "properties": {
+      "title": "LSXI",
+      "icon": "airport",
+      "name": "<strong>INTERLAKEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.91333333, 46.58555556]
+    },
+    "properties": {
+      "title": "LSXL",
+      "icon": "airport",
+      "name": "<strong>LAUTERBRUNNEN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.02416667, 46.34138889]
+    },
+    "properties": {
+      "title": "LESY",
+      "icon": "airport",
+      "name": "<strong>LEYSIN</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.91000000, 47.23527778]
+    },
+    "properties": {
+      "title": "LSXP",
+      "icon": "airport",
+      "name": "<strong>PFAFFNAU</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.83305556, 46.30194444]
+    },
+    "properties": {
+      "title": "LSER",
+      "icon": "airport",
+      "name": "<strong>RARON</strong>"
+    }
+},
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.75305556, 46.02916667]
+    },
+    "properties": {
+      "title": "LSEZ",
+      "icon": "airport",
+      "name": "<strong>ZERMATT</strong>"
+    }
+}
+ ]
+}

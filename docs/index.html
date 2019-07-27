@@ -12,7 +12,7 @@
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.css' rel='stylesheet' />
   <style>
-    body { margin:0; padding:0; }
+    body { margin:0; padding:0; color:#000 }
     #map { position:absolute; top:0; bottom:0; width:100%; }
     </style>
 </head>
@@ -169,7 +169,7 @@ inputs[i].onclick = switchLayer;
 // location of the feature, with description HTML from its properties.
 map.on('click', 'Airports', function (e) {
 var coordinates = e.features[0].geometry.coordinates.slice();
-var description = e.features[0].properties.title;
+var description = e.features[0].properties.name + "<br>" + e.features[0].properties.title + "<br><br><a href='"+e.features[0].properties.title+"'>Add to Flightplan</a>";
  
 // Ensure that if the map is zoomed out such that multiple
 // copies of the feature are visible, the popup appears

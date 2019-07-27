@@ -29,10 +29,31 @@ f.write(' ]\r')
 f.write('}')
 f.close()
 
+f = open("nav.geojson","w")
+f.write('{\r')
+f.write('  "type": "FeatureCollection",\r')
+f.write('  "features": [\r')
+
 for neighbor in root.iter('Vor'):
     uid = neighbor.find("VorUid")
     print(uid.find('codeId').text, uid.find("geoLat").text, uid.find("geoLong").text,neighbor.find('txtName').text, neighbor.find("codeType").text, neighbor.find("valFreq").text,)
+    f.write('    {\r')
+    f.write('    "type": "Feature",\r')
+    f.write('    "geometry": {\r')
+    f.write('      "type": "Point",\r')
+    f.write('      "coordinates": ['+uid.find("geoLong").text[:-1]+', '+uid.find("geoLat").text[:-1]+']\r')
+    f.write('    },\r')
+    f.write('    "properties": {\r')  
+    f.write('      "title": "'+neighbor.find('codeType').text+' '+neighbor.find('valFreq').text+'",\r')  
+    f.write('      "icon": "airport",\r')
+    f.write('      "name": "<strong>'+neighbor.find('txtName').text.encode('utf-8').replace('"','')+'</strong>"\r')
+    f.write('    }\r')
+    f.write("},\r")
 
 for neighbor in root.iter('Ndb'):
     uid = neighbor.find("NdbUid")
     print(uid.find('codeId').text, uid.find("geoLat").text, uid.find("geoLong").text,neighbor.find('txtName').text, neighbor.find("valFreq").text,)
+
+f.write(' ]\r')
+f.write('}')
+f.close()

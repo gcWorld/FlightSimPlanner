@@ -101,7 +101,7 @@
     var draw = new MapboxDraw({
     displayControlsDefault: false,
     controls: {
-    LineString: true,
+    line_string: true,
     trash: true
     }
     });
@@ -130,6 +130,22 @@
             "id": "Airports",
             "type": "symbol",
             "source": "airports",
+            "layout": {
+            "icon-image": "{icon}-15",
+            "text-field": "{title}",
+            "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+            "text-offset": [0, 0.6],
+            "text-anchor": "top",
+            'visibility': 'visible'
+            }
+        });
+
+        map.addSource('navaids', { type: 'geojson', data: 'https://raw.githubusercontent.com/gcWorld/FlightSimPlanner/master/raw/nav.geojson' });
+
+        map.addLayer({
+            "id": "NavAids",
+            "type": "symbol",
+            "source": "navaids",
             "layout": {
             "icon-image": "{icon}-15",
             "text-field": "{title}",

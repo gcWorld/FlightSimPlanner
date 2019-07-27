@@ -11,6 +11,9 @@
   <link rel="stylesheet" href="css/styles.css?v=1.0">
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.css' rel='stylesheet' />
+
+  <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.0.9/mapbox-gl-draw.js'></script>
+  <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.0.9/mapbox-gl-draw.css' type='text/css'/>
   <style>
     body { margin:0; padding:0; color:#000 }
     #map { position:absolute; top:0; bottom:0; width:100%; }
@@ -94,6 +97,19 @@
     container: 'map',
     style: 'mapbox://styles/seeadler/cjyiulv3t0xd81clakksmoj1g'
     });
+
+    var draw = new MapboxDraw({
+    displayControlsDefault: false,
+    controls: {
+    LineString: true,
+    trash: true
+    }
+    });
+    map.addControl(draw,'bottom-left');
+    
+    //map.on('draw.create', updateArea);
+    //map.on('draw.delete', updateArea);
+    //map.on('draw.update', updateArea);
 
     // disable map rotation using right click + drag
     map.dragRotate.disable();

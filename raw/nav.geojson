@@ -1,113 +1,1 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [7.22350000, 46.77758333]
-    },
-    "properties": {
-      "title": "DVOR 110.85",
-      "icon": "airport",
-      "name": "<strong>FRIBOURG</strong>"
-    }
-},
-    {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [6.13222222, 46.25391667]
-    },
-    "properties": {
-      "title": "DVOR 115.75",
-      "icon": "airport",
-      "name": "<strong>GENEVA</strong>"
-    }
-},
-    {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [6.00000000, 46.16369444]
-    },
-    "properties": {
-      "title": "DVOR 116.60",
-      "icon": "airport",
-      "name": "<strong>PASSEIRY</strong>"
-    }
-},
-    {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [7.28877778, 46.21550000]
-    },
-    "properties": {
-      "title": "DVOR 112.15",
-      "icon": "airport",
-      "name": "<strong>SION</strong>"
-    }
-},
-    {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [8.43697222, 47.68950000]
-    },
-    "properties": {
-      "title": "DVOR 114.30",
-      "icon": "airport",
-      "name": "<strong>TRASADINGEN</strong>"
-    }
-},
-    {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [7.90591667, 47.17830556]
-    },
-    "properties": {
-      "title": "DVOR 116.90",
-      "icon": "airport",
-      "name": "<strong>WILLISAU</strong>"
-    }
-},
-    {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [8.81766667, 47.59216667]
-    },
-    "properties": {
-      "title": "DVOR 110.05",
-      "icon": "airport",
-      "name": "<strong>ZURICH EAST</strong>"
-    }
-},
-    {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [6.44805556, 46.46869444]
-    },
-    "properties": {
-      "title": "DVOR 113.90",
-      "icon": "airport",
-      "name": "<strong>ST-PREX</strong>"
-    }
-},
-    {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [8.54555556, 47.45713889]
-    },
-    "properties": {
-      "title": "DVOR 114.85",
-      "icon": "airport",
-      "name": "<strong>KLOTEN</strong>"
-    }
-}
- ]
-}
+{  "type": "FeatureCollection",  "features": [    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.22350000, 46.77758333]    },    "properties": {      "title": "FRI",      "info": "DVOR 110.85",      "icon": "airport",      "name": "<strong>FRIBOURG</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.13222222, 46.25391667]    },    "properties": {      "title": "GVA",      "info": "DVOR 115.75",      "icon": "airport",      "name": "<strong>GENEVA</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.00000000, 46.16369444]    },    "properties": {      "title": "PAS",      "info": "DVOR 116.60",      "icon": "airport",      "name": "<strong>PASSEIRY</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.28877778, 46.21550000]    },    "properties": {      "title": "SIO",      "info": "DVOR 112.15",      "icon": "airport",      "name": "<strong>SION</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.43697222, 47.68950000]    },    "properties": {      "title": "TRA",      "info": "DVOR 114.30",      "icon": "airport",      "name": "<strong>TRASADINGEN</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [7.90591667, 47.17830556]    },    "properties": {      "title": "WIL",      "info": "DVOR 116.90",      "icon": "airport",      "name": "<strong>WILLISAU</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.81766667, 47.59216667]    },    "properties": {      "title": "ZUE",      "info": "DVOR 110.05",      "icon": "airport",      "name": "<strong>ZURICH EAST</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [6.44805556, 46.46869444]    },    "properties": {      "title": "SPR",      "info": "DVOR 113.90",      "icon": "airport",      "name": "<strong>ST-PREX</strong>"    }},    {    "type": "Feature",    "geometry": {      "type": "Point",      "coordinates": [8.54555556, 47.45713889]    },    "properties": {      "title": "KLO",      "info": "DVOR 114.85",      "icon": "airport",      "name": "<strong>KLOTEN</strong>"    }} ]}
